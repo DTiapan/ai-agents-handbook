@@ -24,15 +24,15 @@ A Streamlit-powered Content Creation Assistant that utilizes various agents to g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/content-creation-assistant.git
+   git clone https://github.com/DTiapan/ai-agents-handbook.git
    cd content-creation-assistant
    ```
 2. Set up the .env file with necessary configurations:
 
-````bash
+```bash
 OPENAI_BASE_URL=http://localhost:11434/v1
 OPENAI_API_KEY=no-need-for-the-api-key
-
+```
 
 ## Code Overview
 
@@ -41,6 +41,7 @@ OPENAI_API_KEY=no-need-for-the-api-key
 1. **Initialize Swarm Client** and load environment variables.
 
 2. **Define Agents**:
+
    - **Hook Agent**: Creates an engaging hook with relevant emojis.
    - **Content Search Agent**: Searches DuckDuckGo for content on the topic.
    - **Content Analysis Agent**: Refines and synthesizes the search results.
@@ -72,4 +73,8 @@ OPENAI_API_KEY=no-need-for-the-api-key
 1. **Run the Streamlit App**:
    ```bash
    streamlit run agent.py
-````
+   ```
+
+```
+
+```
