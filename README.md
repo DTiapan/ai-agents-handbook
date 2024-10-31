@@ -1,6 +1,5 @@
 <h1 align="center">AI Agents Handbook</h1>
 
-
 Welcome to the **AI Agents Handbook**! This repository serves as a comprehensive guide for anyone looking to start their journey with AI agents. Here, you'll find a collection of code snippets, tutorials, and resources designed to help you understand and implement AI agents effectively.
 
 ## What You Will Find
@@ -15,5 +14,5 @@ To get started with the code snippets in this repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/ai-agents-handbook.git
-
+   git clone https://github.com/DTiapan/ai-agents-handbook.git
+   ```
