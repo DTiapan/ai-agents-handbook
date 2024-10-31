@@ -58,6 +58,4 @@ We are excited to connect with others in the AI community! If you’re intereste
 
 Feel free to contact us for collaboration ideas, or if you have any questions about AI Agents Handbook. Let’s work together to drive AI forward!
 
----
-
-With this README, we look forward to building a collaborative and inspiring resource for the AI community.
+we look forward to building a collaborative and inspiring resource for the AI community.
