@@ -54,7 +54,7 @@ Join us in this journey and help make AI agents accessible and useful to everyon
 We are excited to connect with others in the AI community! If you’re interested in collaborating, contributing, or exploring sponsorship opportunities, please feel free to reach out. We’re always open to meaningful partnerships and innovative ideas.
 
 - **Email**: [bakran.ajas@gmail.com](mailto:bakran.ajas@gmail.com)
-- **LinkedIn**: [@ajasbakran](https://www.linkedin.com/in/ajasbakran/)
+- **LinkedIn**: [ajasbakran](https://www.linkedin.com/in/ajasbakran/)
 
 Feel free to contact us for collaboration ideas, or if you have any questions about AI Agents Handbook. Let’s work together to drive AI forward!
 
