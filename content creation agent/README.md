@@ -27,7 +27,7 @@ A Streamlit-powered Content Creation Assistant that utilizes various agents to g
    git clone https://github.com/DTiapan/ai-agents-handbook.git
    cd content-creation-assistant
    ```
-2. Set up the .env file with necessary configurations:
+2. create .env file and add below necessary configurations:
 
 ```bash
 OPENAI_BASE_URL=http://localhost:11434/v1

@@ -1,2 +1,3 @@
 agents
 query agent/config.json
+**/.env
