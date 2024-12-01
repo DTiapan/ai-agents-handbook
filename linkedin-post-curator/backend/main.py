@@ -1,15 +1,40 @@
 from crewai import Agent, Task, Crew, LLM
 from crewai_tools import FileReadTool
 import os
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
+import logging
+logging.basicConfig(level=logging.DEBUG)
+
 os.environ["OPENAI_API_KEY"] = "NA"
 
+# Initialize App
+app = FastAPI()
+
+# Configure CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # Your Next.js frontend URL
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Input Model for API
+class ContentInput(BaseModel):
+    transcript: str
+    
 llm = LLM(
     model="ollama/llama3.2",
     base_url="https://precious-finch-truly.ngrok-free.app"
 )
 
+file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'content.txt')
+
 # Initialize the file read tool
-file_read_tool = FileReadTool(file_path='./linkedin-post-curator/backend/content.txt')
+file_read_tool = FileReadTool(file_path=file_path)
+
 input_processing_agent = Agent(
     llm=llm,
     role="Input Formatter",
@@ -179,87 +204,50 @@ final_polishing_task = Task(
     agent=final_polisher_agent,
 )
 
-
-# Most of the buzz today is about large language models.
-
-# But here's what you might not realize:
-
-# They are evolving at a breakneck pace.
-# → Think about that.
-# ↳ It's huge.
-
-# So, the advancements in these models...
-# They matter. A lot.
-
-# Imagine two worlds of language models:
-# Open-Source vs. Proprietary
-
-# Open-Source: Ideas in the air.
-# A place where everyone's input is vital.
-
-# → Innovation
-# → Collaboration.
-
-# Proprietary: Picture a walled garden.
-# Controlled and exclusive.
-
-# Exciting, yes, but it can be limiting.
-# ↳ And restrictive.
-
-# Proprietary models keep innovations in-house.
-# But at what cost?
-
-# Missed opportunities.
-# The quiet genius outside, overlooked.
-
-# Too much control can turn the innovation space
-# into a closed loop.
-# ↳ Stagnant. Limited.
-
-# But here's where it gets interesting:
-# → Developers, you can have the best of both worlds.
-
-# Open with Oversight:
-# Share your models, and guide their use.
-
-# Community Wins:
-# Celebrate collective advancements, not just individual ones.
-
-# Balance is Key:
-# Control when necessary, but also share.
-# ↳ Foster growth.
-
-# Create "Innovation Hubs":
-# Mix up teams. Let diverse minds collaborate.
-
-# Learning is Progress:
-# Encourage open courses and workshops.
-# Make development part of the journey.
-
-# The best model isn't just one thing.
-# It's smartly balanced.
-
-# → Open-source collaboration with a hint of proprietary control.
-
 crew = Crew(
     agents=[input_processing_agent, 
             summarization_agent,
-            tone_adaptation_agent,
-            seo_and_hashtag_agent,
             final_polisher_agent],
     
     tasks=[input_processing_task, 
            summarization_task,
-           tone_adaptation_task,
-           seo_and_hashtag_task,
            final_polishing_task],
 	
     verbose=True,
 	memory=True
 )
 
+# Store Results
+results_cache = {}
 
-result = crew.kickoff()
-print(result)
+
+@app.post("/process-content")
+async def process_content(content_input: ContentInput):
+    """Starts the content processing workflow."""
+    global results_cache
+
+    logging.debug("Received raw content: %s", content_input.transcript)
+        # Validate that the content is not empty or only whitespace
+    cleaned_content = content_input.transcript.strip()
+    if not cleaned_content:
+        raise HTTPException(status_code=422, detail="Content cannot be empty or just whitespace.")
+  
+    processed_content = cleaned_content.replace("'", "\\'")  # Escaping single quotes if needed
+
+    # Update file content dynamically
+    with open(file_path, 'w') as file:
+        file.write(processed_content)
+
+    try:
+        result = crew.kickoff()
+        # Cache results
+        results_cache["latest"] = result
+        # Return the result directly
+        return {"status": "success", "message": "Content processed successfully!", "result": result}
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
 
 

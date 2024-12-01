@@ -15,13 +15,16 @@
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
+    "remark-gfm": "^4.0.0",
     "shadcn-ui": "^0.9.3",
+    "showdown": "^2.1.0",
     "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/showdown": "^2.0.6",
     "eslint": "^8",
     "eslint-config-next": "15.0.3",
     "postcss": "^8",
