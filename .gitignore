@@ -2,5 +2,5 @@ agents
 query agent/config.json
 **/.env
 **/node_modules
-**/.next
-**/.DS_Store
+linkedin-post-curator/frontend/.next/**/*
+*/
