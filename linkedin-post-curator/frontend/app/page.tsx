@@ -109,6 +109,7 @@ export default function PostCurationApp() {
                 w="180px"
               >
                 <option value="llama3.2">Llama 3.2</option>
+                <option value="gpt-4o-mini">gpt-4o-mini</option>
                 <option value="gpt3.5">GPT-3.5</option>
                 <option value="gpt4">GPT-4</option>
               </Select>
