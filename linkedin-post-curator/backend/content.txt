@@ -1,1 +1,711 @@
-Bezos was born in Albuquerque and raised in Houston and Miami. He graduated from Princeton University in 1986 with degrees in electrical engineering and computer science. He worked on Wall Street in a variety of related fields from 1986 to early 1994. Bezos founded Amazon in mid-1994 on a road trip from New York City to Seattle. The company began as an online bookstore and has since expanded to a variety of other e-commerce products and services, including video and audio streaming, cloud computing, and artificial intelligence. It is the world\'s largest online sales company, the largest Internet company by revenue, and the largest provider of virtual assistants and cloud infrastructure services through its Amazon Web Services branch. Bezos founded the aerospace manufacturer and sub-orbital spaceflight services company Blue Origin in 2000. Blue Origin\'s New Shepard vehicle reached space in 2015 and afterwards successfully landed back on Earth; he flew into space on Blue Origin NS-16 in 2021. He purchased the major American newspaper The Washington Post in 2013 for $250 million and manages many other investments through his venture capital firm, Bezos Expeditions. In September 2021, Bezos co-founded Altos Labs with Mail.ru founder Yuri Milner.
+# tactiq.io free youtube transcript
+# Jeff Bezos: Amazon and Blue Origin | Lex Fridman Podcast #405
+# https://www.youtube.com/watch/DcWqzZ3I2cY
+
+00:00:00.233 The following is aconversation with Jeff Bezos,
+00:00:03.286 founder of Amazon and Blue Origin.
+00:00:06.322 This is his first timedoing a conversation
+00:00:09.256 of this kind and of this length.
+00:00:11.380 And as he told me, it felt likewe could have easily talked
+00:00:14.214 for many more hours, and I\'m sure we will.
+00:00:17.801 This is the Lex Fridman podcast.
+00:00:19.856 And now, dear friends, here\'s Jeff Bezos.
+00:00:24.599 You spent a lot of yourchildhood with your grandfather
+00:00:27.734 on a ranch here in Texas,
+00:00:30.294 and I heard you had a lot ofwork to do around the ranch.
+00:00:33.057 So what\'s the coolest jobyou remember doing there?
+00:00:35.437 Wow, coolest.
+00:00:36.659 Most interesting.
+00:00:38.087 Most memorable.
+00:00:39.091 Most memorable.
+00:00:40.089 Most impactful.
+00:00:41.308 And it was a real working ranch.
+00:00:42.999 My grand, I spent allmy summers on that ranch
+00:00:46.753 from age four to 16.
+00:00:49.276 And my grandfather wasreally taking me to those
+00:00:52.933 in the summers, in the early summers,
+00:00:54.378 he was letting me pretendto help on the ranch.
+00:00:57.658 \'Cause of course, a4-year-old is a burden,
+00:00:59.376 not a help in real life.
+00:01:01.233 He was really just watchingme and taking care of me
+00:01:04.944 and be was doing thatbecause my mom was so young.
+00:01:07.996 She had me when she was 17,
+00:01:09.953 and so he was sort of giving her a break.
+00:01:12.037 And my grandmother and my grandfather
+00:01:13.433 would take me for these summers.
+00:01:15.056 But as I got a little older,
+00:01:16.251 I actually was helpful onthe ranch and I loved it.
+00:01:18.718 I was out there,
+00:01:20.193 like my grandfather hada huge influence on me,
+00:01:23.604 huge factor in my life.
+00:01:25.516 I did all the jobs youwould do on a ranch.
+00:01:28.895 I\'ve fixed windmills and laid fences
+00:01:33.132 and pipelines and youknow, done all the things
+00:01:36.557 that any rancher would do,
+00:01:38.096 vaccinated, the animals, everything.
+00:01:41.596 But we had a you know, my grandfather,
+00:01:44.136 after my grandmother died, I was about 12
+00:01:47.215 and I kept coming to the ranch.
+00:01:48.617 So it was then, it was justhim and me, just the two of us.
+00:01:51.254 And he was completelyaddicted to the soap opera,
+00:01:55.916 the Days of Our Lives.
+00:01:57.673 And we would go back tothe ranch house every day
+00:02:00.706 around 1:00 PM or so towatch days of our lives
+00:02:03.980 like sands through an hourglass.
+00:02:06.433 So are the days of our lives.
+00:02:07.974 Just the image of the two sitting there
+00:02:11.296 watching a soap opera as ranchers.
+00:02:12.953 He had these big, crazy dogs.
+00:02:14.434 It was really a veryformative experience for me.
+00:02:16.617 But the key thing about it for me,
+00:02:18.677 the great gift I got from it
+00:02:21.935 was that my grandfather wasso resourceful, you know,
+00:02:25.732 he did everything himself.
+00:02:26.895 He made his own veterinary tools.
+00:02:28.591 He would make needles tosuture the cattle up with,
+00:02:32.157 like he would find a littlepiece of wire and heat it up
+00:02:34.287 and pound it thin and drilla hole in it and sharpen it.
+00:02:37.239 So, you know, you learn different things
+00:02:40.295 on a ranch than you would learn
+00:02:41.881 you know, growing up in a city.
+00:02:43.412 So self-reliance.
+00:02:44.567 Yeah, like figuring outthat you can solve problems
+00:02:48.271 with enough persistence and ingenuity.
+00:02:52.127 And my grandfather bought a D6 bulldozer,
+00:02:55.573 which is a big bulldozer, andhe got it for like $5,000.
+00:02:58.511 \'cause it was completely broken down.
+00:03:00.392 It was like a 1955Caterpillar, D6 bulldozer
+00:03:04.589 knew it would\'ve cost, I don\'t know,
+00:03:06.394 more than a $100,000.
+00:03:08.012 And we spent an entire summer fixing,
+00:03:10.887 like repairing that bulldozer.
+00:03:13.170 And we\'d, you know, use mail order
+00:03:15.549 to buy big gears for the transmission.
+00:03:17.633 And they\'d show up.
+00:03:18.749 They\'d be too heavy to move,
+00:03:19.873 so we\'d have to build a crane, you know,
+00:03:21.911 just that kind of, kinda thatproblem solving mentality.
+00:03:26.131 He had it so powerfully, you know,
+00:03:30.589 he did all of his own.
+00:03:31.939 He\'d just, he didn\'t pick upthe phone and call somebody.
+00:03:35.448 He would figure it out on his own.
+00:03:37.370 Doing his own veterinary work, you know.
+00:03:39.389 But just the image of the two of you
+00:03:41.009 fixing a D6 bulldozer and then going in
+00:03:43.684 for a little break at 1:00PM to watch a soap opera.
+00:03:46.578 Laying on the floor.
+00:03:48.710 That\'s how he watched TV.
+00:03:50.093 Yeah.
+00:03:50.926 He was a really, really remarkable guy.
+00:03:52.468 That\'s how I imagine Clint Eastwood also
+00:03:55.759 in all those westerns.
+00:03:57.657 When he\'s not doing what he is doing,
+00:03:59.788 he\'s just watching soap operas.
+00:04:01.447 All right, I read that you fell in love
+00:04:04.325 with the idea of spaceand space exploration
+00:04:05.886 when you were five watching Neil Armstrong
+00:04:07.616 walking on the moon.
+00:04:10.953 So let me ask you to lookback at the historical context
+00:04:14.766 and impact of that.
+00:04:16.317 So the space race from 1957 to 1969
+00:04:21.033 between the Soviet Union andthe US was in many ways epic.
+00:04:25.717 It was a rapid sequence of dramatic events
+00:04:29.216 for satellite to space,for a human to space,
+00:04:32.075 for a spacewalk, firstuncrewed landing on the moon,
+00:04:35.538 then some failures, explosions,
+00:04:38.373 deaths on both sides actually,
+00:04:40.416 and then the first humanwalking on the moon.
+00:04:43.801 What are some of themore inspiring moments
+00:04:46.134 or insights you take away from that time,
+00:04:47.737 those few years, that just 12 years?
+00:04:51.120 Well, I mean, there\'sso much inspiring there.
+00:04:55.678 You know, one of the greatthings to take away from that,
+00:04:57.419 one of the great von Braun quotes is
+00:04:59.405 "I have come to use the wordimpossible with great caution."
+00:05:04.461 Yeah, yeah, yeah.
+00:05:07.520 And so that\'s kind ofthe big story of Apollo
+00:05:10.480 is that things, youknow, going to the moon
+00:05:13.775 was literally an analogy that people used
+00:05:17.243 for something that\'s impossible.
+00:05:19.002 You know, oh yeah, you\'lldo that when you know,
+00:05:21.382 men walk on the moon.
+00:05:22.464 Yeah.
+00:05:23.297 And of course it finally happened.
+00:05:26.134 So, you know, I think itwas pulled forward in time
+00:05:29.069 because of the space race,
+00:05:31.513 I think you know, with thegeopolitical implications
+00:05:34.972 and you know, how muchresource was put into it,
+00:05:37.730 you know, at the peak,that program was spending,
+00:05:39.902 you know, two or 3% ofGDP on the Apollo program.
+00:05:43.970 So much resource.
+00:05:45.604 I think it was pulled forward in time.
+00:05:47.511 You know, we kind of did it ahead
+00:05:50.529 of when we quote unquoteshould have done it.
+00:05:52.639 Yeah.
+00:05:53.472 And so in that way, it\'salso a technical marvel.
+00:05:57.022 I mean, it\'s truly incredible.
+00:05:58.971 It\'s, you know, it\'sthe 20th century version
+00:06:03.109 of building the pyramids or something.
+00:06:04.935 It\'s you know, it\'s an achievement
+00:06:07.530 that because it was pulled forward in time
+00:06:09.335 and because it did something
+00:06:10.676 that had previously thought impossible,
+00:06:12.615 it rightly deservesits place, as you know,
+00:06:14.832 in the pantheon of greathuman achievements.
+00:06:17.758 And of course, you namedthe projects The Rockets
+00:06:21.293 that Blue Origin is working on
+00:06:22.971 after some of the folks involved.
+00:06:23.999 Yeah.
+00:06:24.832 I don\'t understand whyI didn\'t say New Gagarin.
+00:06:26.477 is that-
+00:06:27.310 There\'s an American bias in the naming.
+00:06:28.654 I apologize.
+00:06:29.653 It\'s very strange.
+00:06:30.808 Lex.
+00:06:31.641 Just asking for a friend.
+00:06:33.348 Clarify.
+00:06:34.181 I\'m a big fan of Gagarin though.
+00:06:36.031 And in fact, I think hisfirst words in space,
+00:06:41.010 I think are incredible.
+00:06:43.752 He, you know, he purportedlysaid "my God, it\'s blue."
+00:06:47.692 And that really drives home.
+00:06:49.643 No one had seen the earth from space.
+00:06:52.446 No one knew that we wereon this blue planet.
+00:06:55.442 Yeah.
+00:06:56.275 No one knew what itlooked like from out there.
+00:06:58.129 And Gagarin was thefirst person to see it.
+00:07:01.027 One of the things I thinkabout is how dangerous
+00:07:04.114 those early days were for Gagarin,
+00:07:06.989 for Glen, for everybody involved.
+00:07:08.729 Like how big of a riskthey were all taking.
+00:07:11.229 They were taking huge risks.
+00:07:12.429 I\'m not sure what the Soviets thought
+00:07:14.826 about Gagarin\'s flight,
+00:07:16.653 but I think that the Americans thought
+00:07:19.009 that the Alan Shephard flight,
+00:07:20.833 the flight that you know,New Shephard is named after,
+00:07:22.653 the first American in space.
+00:07:24.133 He went on his suborbital flight.
+00:07:26.330 They thought he had abouta 75% chance of success.
+00:07:31.080 So, you know, that\'s apretty big risk, a 25% risk.
+00:07:36.115 It\'s kind of interestingthat Alan Shephard
+00:07:38.351 is not quite as famous as John Glenn.
+00:07:40.030 So for people who don\'tknow, Alan Shephard
+00:07:42.033 is the first astronaut-
+00:07:44.707 The first American in space.
+00:07:46.491 American in suborbital flight.
+00:07:48.610 Correct.
+00:07:49.443 And then the first orbital flight is-
+00:07:51.030 John Glenn is the firstAmerican to orbit the earth.
+00:07:54.833 By the way, I have themost charming, sweet,
+00:07:58.048 incredible letter from John Glenn,
+00:08:00.987 which I have framed andhang on my office wall.
+00:08:03.987 What did he say?
+00:08:04.991 Where he tells me how grateful he is
+00:08:07.807 that we have named New Glenn after him.
+00:08:10.610 And he sent me that letterabout a week before he died.
+00:08:13.642 And it\'s really an incredible,
+00:08:15.806 it\'s also a very funny letter.
+00:08:17.071 He\'s writing and he says you know,
+00:08:20.392 this is a letter about NewGlenn from the original Glenn.
+00:08:24.113 And he\'s just, he\'s gota great sense of humor,
+00:08:26.983 and he\'s very happy about it and grateful.
+00:08:29.226 It\'s very sweet.
+00:08:30.271 Does he say ps don\'t mess this up?
+00:08:31.810 Or is that-
+00:08:34.201 No, he doesn\'t.
+00:08:35.140 Make me look good.
+00:08:36.015 He doesn\'t do that.
+00:08:37.158 Okay.
+00:08:37.991 But wait, but John, wherever you are,
+00:08:38.823 we got you covered.
+00:08:39.657 All right, good.
+00:08:41.530 So back to maybe the big picture of space.
+00:08:44.295 When you look up at thestars and think big,
+00:08:47.912 what do you hope isthe future of humanity?
+00:08:49.891 Hundreds, thousands ofyears from now out in space?
+00:08:54.135 I would love to see, you know,
+00:08:56.528 a trillion humans livingin the solar system.
+00:09:01.566 If we had a trillion humans,
+00:09:03.251 we would have at any giventime a thousand Mozarts
+00:09:06.314 and a thousand Einsteins.
+00:09:08.473 That would, you know, our solarsystem would be full of life
+00:09:11.736 and intelligence and energy.
+00:09:14.116 And we can easily supporta civilization that large
+00:09:17.773 with all of the resourcesin the solar system.
+00:09:21.314 So what do you think that looks like?
+00:09:23.289 Giant space stations?
+00:09:24.633 Yeah, the only way to get to that vision
+00:09:26.695 is with giant space stations.
+00:09:28.796 You know, the planetarysurfaces are just way too small.
+00:09:31.397 So you can, I mean, unless you turn them
+00:09:34.130 into giant space stations or something.
+00:09:36.608 But, but yeah, we will takematerials from the moon
+00:09:40.853 and from near earth objectsand from the asteroid belt
+00:09:44.679 and so on, and we\'ll buildgiant O\'Neill style colonies
+00:09:49.091 and people will live in those.
+00:09:50.919 And they have a lot of advantagesover planetary surfaces.
+00:09:54.013 You can spin them to getnormal earth gravity.
+00:09:57.734 You can put them where you want them.
+00:09:59.398 I think most people aregonna wanna live near Earth,
+00:10:03.112 not necessarily in earthorbit, but in you know, earth,
+00:10:07.808 but near earth vicinity orbits.
+00:10:10.700 And so they can move youknow, relatively quickly
+00:10:15.251 back and forth betweentheir station and Earth.
+00:10:19.137 So I think a lot of people,
+00:10:20.455 especially in the early stages,
+00:10:21.813 are not gonna want togive up Earth altogether.
+00:10:24.894 They go to earth for vacation.
+00:10:26.695 Yeah.
+00:10:27.528 Same way that you know, you might go
+00:10:29.157 to Yellowstone National Park for vacation.
+00:10:31.389 People will, and no one,
+00:10:33.210 and people will get to choosewhere they live on earth
+00:10:35.693 or whether they live in space,
+00:10:37.853 but they\'ll be able touse much more energy
+00:10:40.575 and much more material resource in space
+00:10:42.920 than they would be able to use on earth.
+00:10:45.514 One of the interesting ideas you had
+00:10:47.048 is to move the heavyindustry away from Earth.
+00:10:49.810 So people sometimes have this idea
+00:10:52.034 that somehow spaceexploration is in conflict
+00:10:55.912 with the celebration of the planet earth,
+00:10:58.593 that we should focus on preserving earth.
+00:11:00.559 And basically your ideas that space travel
+00:11:04.321 and space exploration isa way to preserve earth.
+00:11:06.773 Exactly.
+00:11:07.872 This planet, we\'ve sent roboticprobes to all the planets.
+00:11:13.159 We know that this is the good one.
+00:11:16.380 Yeah.
+00:11:17.595 Not to play favorites or anything.
+00:11:19.088 But earth really is the good planet.
+00:11:20.850 It\'s amazing, the ecosystem we have here,
+00:11:24.258 all of the life and thelush, the plant life
+00:11:28.810 and you know, the waterresources, everything.
+00:11:30.764 This planet is really extraordinary.
+00:11:33.273 And of course, we evolved on this planet,
+00:11:35.159 so of course it\'s perfect for us,
+00:11:37.394 but it\'s also perfect forall the advanced life forms
+00:11:39.670 on this planet, all the animals and so on.
+00:11:42.236 And so this is a gem.
+00:11:43.234 We do need to take care of it.
+00:11:46.038 And as we enter the Anthropocene,
+00:11:48.232 as we get, as we humans have gotten
+00:11:51.013 so sophisticated and large and impactful,
+00:11:55.837 as we stride across this planet, you know,
+00:11:58.774 that is going to, as we continue,
+00:12:01.832 we want to use a lot of energy.
+00:12:03.436 We want to use a lot of energy per capita.
+00:12:04.956 We\'ve gotten amazing things.
+00:12:07.133 We don\'t want to go backwards.
+00:12:09.693 You know, if you thinkabout the good old days,
+00:12:15.609 they\'re mostly an illusion.
+00:12:17.373 Like in almost every way,
+00:12:19.237 life is better for almost everyone today
+00:12:21.170 than it was say, 50 yearsago or a hundred years.
+00:12:25.094 We live better lives by andlarge than our grandparents did,
+00:12:29.697 and their grandparents did, and so on.
+00:12:31.636 And you can see that inglobal illiteracy rates,
+00:12:34.039 global poverty rates, globalinfant mortality rates,
+00:12:39.113 like almost any metric you choose,
+00:12:41.174 we\'re better off than we used to be.
+00:12:43.377 And we get, you know, antibiotics
+00:12:45.255 and all kinds of lifesaving medical care
+00:12:46.776 and so on and so on.
+00:12:49.070 And there\'s one thingthat is moving backwards,
+00:12:52.935 and it\'s the natural world.
+00:12:54.653 So it is a fact that 500years ago, pre-industrial age,
+00:12:59.794 the natural world was pristine.
+00:13:02.121 It was incredible.
+00:13:03.697 And we have traded someof that pristine beauty
+00:13:09.055 for all of these other gifts that we have
+00:13:11.331 as an advanced society.
+00:13:13.513 And we can have both.
+00:13:16.155 But to do that, we have to go to space.
+00:13:18.837 And all of this, really,
+00:13:20.375 the most fundamental measureis energy usage per capita.
+00:13:25.698 And when you look at, you know,
+00:13:27.399 you do want to continue touse more and more energy,
+00:13:30.551 it is going to make yourlife better in so many ways.
+00:13:33.494 But that\'s not compatible ultimately
+00:13:36.333 with living on a finite planet.
+00:13:38.074 And so we have to go outinto the solar system
+00:13:40.895 and really you could argueabout when you have to do that,
+00:13:44.773 but you can\'t credibly argue
+00:13:47.235 about whether you have to do that.
+00:13:49.615 Eventually, we have to do that.
+00:13:51.157 Exactly.
+00:13:52.314 Well, you don\'t often talk about it,
+00:13:54.439 but let me ask you on thattopic about the Blue Ring
+00:13:56.990 and the orbital reef spaceinfrastructure projects.
+00:14:01.375 What\'s your vision for these?
+00:14:03.511 So Blue Ring is a veryinteresting spacecraft
+00:14:07.117 that is designed to take upto 3000 kilograms of payload
+00:14:12.736 up to geosynchronous orbitor in lunar vicinity.
+00:14:17.075 It has two different kinds of propulsion.
+00:14:20.253 It has chemical propulsion,and it has electric propulsion.
+00:14:24.391 And so it can,
+00:14:25.814 you can use blue ring ina couple different ways.
+00:14:28.996 You can slowly move, let\'ssay up to geosynchronous orbit
+00:14:32.717 using electric propulsion
+00:14:34.679 that might take you know, a hundred days
+00:14:36.838 or 150 days depending on howmuch mass you\'re carrying.
+00:14:40.275 And then, and reserveyour chemical propulsion
+00:14:43.171 so that you can change orbits quickly
+00:14:44.994 in geosynchronous orbit.
+00:14:46.834 Or you can use thechemical propulsion first
+00:14:49.412 to quickly get up to geosynchronous
+00:14:51.136 and then use your electrical propulsion
+00:14:53.089 to slowly change yourgeosynchronous orbit.
+00:14:55.797 Blue Ring has a coupleof interesting features.
+00:14:59.276 It provides a lot of services
+00:15:04.050 to these payloads.
+00:15:05.382 So the payload, it couldbe one large payload,
+00:15:07.433 or it can be a number of small payloads,
+00:15:10.312 and it provides thermal management,
+00:15:12.336 it provides electricpower, it provides compute,
+00:15:16.695 provides communications.
+00:15:19.035 And so when you designa payload for Blue Ring,
+00:15:23.115 you don\'t have,
+00:15:24.253 you don\'t have to figureout all of those things
+00:15:27.237 on your own.
+00:15:28.236 So kind of radiation tolerant compute
+00:15:30.917 is a complicated thing to do.
+00:15:32.974 And so we have an unusually large amount
+00:15:36.438 of radiation tolerantcompute on board Blue Ring,
+00:15:39.033 and you can, yourpayload can just use that
+00:15:41.639 when it needs to.
+00:15:42.690 So it\'s sort of all these services,
+00:15:46.734 it\'s you know, it\'s like a set of APIs.
+00:15:49.650 It\'s a little bit likeAmazon web services,
+00:15:51.676 but for space payloadsthat need to move about
+00:15:55.055 an earth vicinity or lunar vicinity.
+00:15:57.795 AWSS space.
+00:15:59.922 Okay, so computing space.
+00:16:02.932 So you get a giant chemical rocket
+00:16:04.836 to get a payload out to orbit,
+00:16:08.035 and then you have theseadmins that show up,
+00:16:11.129 this Blue Ring thing thatmanages various things
+00:16:13.810 like compute.
+00:16:14.643 Exactly.
+00:16:15.476 And it can also provide transportation
+00:16:16.893 and move you around to different orbits.
+00:16:19.012 Including humans, you think?
+00:16:20.195 No, but Blue Ring is notdesigned to move humans around.
+00:16:23.726 It\'s designed to move payloads around.
+00:16:26.854 Okay.
+00:16:27.687 So we\'re also building a lunar lander,
+00:16:29.749 which is of course designed to land humans
+00:16:33.640 on the surface of the moon.
+00:16:34.917 I\'m gonna ask you about that,
+00:16:36.578 but let me ask you to juststep back to the old days.
+00:16:40.595 You were at Princeton
+00:16:42.476 with aspirations to bea theoretical physicist.
+00:16:45.386 Yeah.
+00:16:47.533 What attracted you to physics
+00:16:49.368 and why did you change your mind
+00:16:51.798 and not become, why you\'re not Jeff Bezos,
+00:16:54.808 the famous theoretical physicist?
+00:16:57.116 So I loved physics and I studied physics
+00:16:59.969 and computer science,
+00:17:01.638 and I was proceedingalong the physics path.
+00:17:05.114 I was planning to major in physics
+00:17:06.531 and I wanted to be atheoretical physicist.
+00:17:08.907 And the computer science
+00:17:10.374 was sort of something I was doing for fun.
+00:17:12.655 I really loved it.
+00:17:14.577 And I was very good at the programming
+00:17:17.867 and doing those things.
+00:17:19.674 And I enjoyed all my computerscience classes immensely,
+00:17:23.035 but I really was determinedto be a theoretical physicist.
+00:17:26.355 It\'s why I went to Princetonin the first place.
+00:17:29.014 It was definitely, and then I realized
+00:17:32.596 I was gonna be a mediocretheoretical physicist.
+00:17:35.510 And there were a few people in my classes,
+00:17:39.115 like in quantum mechanics and so on,
+00:17:42.049 who they could effortlessly do things
+00:17:44.493 that were so difficult for me.
+00:17:46.470 And I realized like you know,there are a thousand ways
+00:17:49.575 to be smart and to be a really, you know,
+00:17:52.455 theoretical physics isnot one of those fields
+00:17:56.013 where only the top few percent
+00:17:59.877 actually move the stateof the art forward.
+00:18:02.372 It\'s one of those thingswhere you have to be
+00:18:05.011 really just, your brain hasto be wired in a certain way.
+00:18:09.214 And there was a guy named,
+00:18:10.932 one of these people who convinced me.
+00:18:14.519 He didn\'t mean to convince me,
+00:18:16.142 but just by observing him, he convinced me
+00:18:17.915 that I should not try tobe a theoretical physicist.
+00:18:20.835 His name was Yosanta.
+00:18:22.519 And Yosanta was from Sri Lanka.
+00:18:26.887 And he was one of the mostbrilliant people I\'d ever met.
+00:18:30.608 My friend Joe and I wereworking on a very difficult
+00:18:34.936 partial differential equationsproblem set one night.
+00:18:37.899 And there was one problem thatwe worked on for three hours,
+00:18:41.890 and we made no headway whatsoever.
+00:18:45.594 And we looked up at eachother at the same time
+00:18:48.333 and we said, Yosanta.
+00:18:49.628 So we went to Yosanta\'s dorm room.
+00:18:51.875 And he was there, hewas almost always there.
+00:18:54.848 And we said Yosanta, we\'rehaving trouble solving
+00:18:57.558 this partial differential equation,
+00:19:00.655 would you mind taking a look?
+00:19:02.599 And he said of course.
+00:19:03.528 By the way, he was the mosthumble, most kind person.
+00:19:07.716 And so he took our,
+00:19:08.854 he looked at our problemand he stared at it
+00:19:11.913 for just a few seconds, maybe 10 seconds.
+00:19:13.730 And he said cosine.
+00:19:15.797 And I said, what do you mean Yosanta?
+00:19:17.892 What do you mean cosine?
+00:19:18.888 He said that\'s the answer.
+00:19:19.767 And I said no, no, no, come on.
+00:19:21.596 And he said let me show you.
+00:19:22.838 And he took out some paper
+00:19:24.133 and he wrote down threepages of equations,
+00:19:27.651 everything canceled out.
+00:19:29.428 And the answer was cosine.
+00:19:30.919 And I said Yosanta, didyou do that in your head?
+00:19:35.714 And he said oh no, thatwould be impossible.
+00:19:38.152 A few years ago I solved a similar problem
+00:19:40.954 and I could map thisproblem onto that problem.
+00:19:43.777 And then it was immediately obvious
+00:19:45.397 that the answer was cosine.
+00:19:47.434 I had a few, you know, youhave an experience like that,
+00:19:50.389 you realize maybe beinga theoretical physicist
+00:19:54.277 isn\'t what your,
+00:19:55.555 isn\'t what the universe wants you to be.
+00:19:59.351 And so I switched to computerscience and you know,
+00:20:04.253 that worked out really well for me.
+00:20:05.755 I enjoy it.
+00:20:06.588 I still enjoy it today.
+00:20:07.523 Yeah, there\'s a particularkind of intuition you need
+00:20:09.638 to be a great physicist,applied to physics.
+00:20:12.657 I think the mathematicalskill required today is so high.
+00:20:17.529 You have to be a world-class mathematician
+00:20:20.929 to be a successfultheoretical physicist today.
+00:20:24.313 And it\'s not you know,
+00:20:26.871 you probably need other skills too,
+00:20:29.971 intuition, lateral thinking, and so on.
+00:20:32.722 But without just top-notch math skills,
+00:20:37.127 you\'re unlikely to be successful.
+00:20:39.319 And visualization skill,
+00:20:40.847 you have to be able to really kind of do
+00:20:43.589 these kinds of thought experiments.
+00:20:45.333 And if you want truly great creativity,
+00:20:46.918 actually Walter Isaacson writes about you.
+00:20:49.571 It puts you on the same level as Einstein.
+00:20:52.530 Well, that\'s very kind.
+00:20:56.407 I\'m an inventor.
+00:20:57.587 If you wanna boil down what I am,
+00:21:00.833 I\'m really an inventor.
+00:21:02.493 And I look at things
+00:21:03.900 and I can come up with atypicalsolutions and you know,
+00:21:08.756 and then I can create ahundred such atypical solutions
+00:21:11.815 for something.
+00:21:13.458 99 of them may not survive,you know, scrutiny.
+00:21:18.657 But one of those 100 islike hmm, maybe there is,
+00:21:21.957 maybe that might work.
+00:21:23.570 And then you can keep going from there.
+00:21:25.417 So that kind of lateral thinking,
+00:21:27.695 that kind of inventiveness
+00:21:29.811 in a high dimensionalityspace where the search space
+00:21:33.811 is very large, that\'s wheremy inventive skills come.
+00:21:37.489 That\'s the thing is I self-identify
+00:21:40.640 as an inventor more than anything else.
+00:21:43.354 Yeah, and he describes inall kinds of different ways,
+00:21:45.991 Walter Isaacson does that creativity
+00:21:50.448 combined with childlikewander that you\'ve maintained
+00:21:54.436 still to this day, all ofthat combined together.
+00:21:57.274 Is there, like if you were to study
+00:21:59.297 your own brain introspect,how do you think,
+00:22:02.171 what\'s your thinking process like?
+00:22:03.654 We\'ll talk about the writing process
+00:22:05.716 of putting it down on paper,
+00:22:07.514 which is quite rigorousand famous at Amazon.
+00:22:12.874 But how do you, when yousit down, maybe alone,
+00:22:15.829 maybe with others,
+00:22:17.059 and thinking through thishigh dimensional space
+00:22:19.573 and looking for creativesolutions, creative paths forward,
+00:22:24.053 is there something you couldsay about that process?
+00:22:26.314 It\'s such a good question,
+00:22:27.994 and I honestly don\'t know how it works.
+00:22:31.091 If I did, I would try to explain it.
+00:22:32.931 I know it involves lots of wandering.
+00:22:35.426 Yeah.
+00:22:37.294 So I, you know, when I sitdown to work on a problem,
+00:22:40.307 I know I don\'t know where I\'m going.
+00:22:43.592 So to go in a straightline, to be efficient,
+00:22:47.273 efficiency and inventionare sort of at odds
+00:22:50.693 because invention, real invention,
+00:22:53.298 not incremental improvement.
+00:22:54.633 Incremental improvement is so important
+00:22:56.584 in every endeavor, in everything you do.
+00:22:58.687 You have to work hard onalso just making things
+00:23:00.346 a little bit better.
+00:23:02.337 But I\'m talking about real invention,
+00:23:04.775 real lateral thinking,that requires wandering.
+00:23:08.693 And you have to give yourselfpermission to wander.
+00:23:11.294 I think a lot of people,
+00:23:15.398 they feel like wandering is inefficient.
+00:23:20.233 And you know, like whenI sit down at a meeting,
+00:23:26.250 I don\'t know how longthe meeting is gonna take
+00:23:28.598 if we\'re trying to solve a problem.
+00:23:30.356 Because if I did, then I\'d already,
+00:23:33.991 I\'d know there\'s somekind of straight line
+00:23:35.689 that we\'re drawing to the solution.
+00:23:38.014 The reality is we may haveto wander for a long time.
+00:23:42.270 And I do like group invention.
+00:23:43.836 I think there\'s certainly nothing more fun
+00:23:46.919 than sitting at awhiteboard with you know,
+00:23:49.635 a group of smart people and spit balling
+00:23:53.673 and coming up with new ideasand objections to those ideas,
+00:23:57.571 and then solutions to the objections
+00:24:00.015 and going back and forth.
+00:24:02.076 So like you know, sometimesyou wake up with an idea
+00:24:06.217 in the middle of the night
+00:24:08.531 and sometimes you sit downwith a group of people
+00:24:10.871 and go back and forth
+00:24:12.316 and both things are really pleasurable.
+00:24:14.754 And when you wander,
+00:24:16.031 I think one key thingis to notice a good idea
+00:24:21.958 and to maybe, to noticethe kernel of a good idea.
+00:24:25.832 Maybe pull at that string.
+00:24:28.076 Because I don\'t think a goodidea has come fully formed.
+00:24:31.414 A hundred percent right.
+00:24:33.411 In fact, when I come up withwhat I think is a good idea
+00:24:37.515 and it survives kind of thefirst level of scrutiny,
+00:24:40.975 you know, that I do in my own head
+00:24:42.635 and I\'m ready to tellsomebody else about the idea,
+00:24:45.855 I will often say look,
+00:24:47.297 it is going to be really easyfor you to find objections
+00:24:50.292 to this idea, but work with me.
+00:24:53.154 There\'s something there.
+00:24:54.531 There\'s something there.
+00:24:55.638 And that is intuition.
+00:24:57.653 Yeah.
+00:24:58.486 Because it\'s reallyeasy to kill new ideas
+00:25:01.716 in the beginning.
+00:25:02.738 \'Cause they do have so many,
+00:25:04.677 so many easy objections to them.
+00:25:07.138 So you need to,
+00:25:08.130 you need to kind of forewarn people
+00:25:09.932 and say look, I know it\'sgonna take a lot of work
+00:25:12.496 to get this to a fully formed idea.
+00:25:14.853 Let\'s get started on that.
+00:25:16.014 It\'ll be fun.
+00:25:17.373 So you got that ability to say cosine
+00:25:19.808 in you somewhere after all.
+00:25:22.053 Maybe not on math, but-
+00:25:23.333 In a different domain.
+00:25:24.179 Yeah.
+00:25:25.264 There are a thousand waysto be smart, by the way.
+00:25:27.600 Yeah.
+00:25:28.433 And that is a really, likewhen I go around, you know,
+00:25:31.803 and I meet people, I\'m always looking
+00:25:33.620 for the way that they\'re smart.
+00:25:35.704 And you find it is,
+00:25:37.083 that\'s one of the things thatmakes the world so interesting
+00:25:42.182 and fun is that it is not,
+00:25:43.936 it\'s not like IQ is a single dimension.
+00:25:48.800 There are people who aresmart in such unique ways.
+00:25:52.975 Yeah, you just gave me a good response
+00:25:54.640 to when somebody calls mean idiot on the internet.
+00:25:57.308 You know, that\'s a thousandways to be smart, sir.
+00:26:01.123 Well, they might tell you,
+00:26:02.947 yeah, but there are a millionto be ways to be dumb.
+00:26:04.473 Yeah, right.
+00:26:06.347 I feel like that\'s a Mark Twain quote.
+00:26:08.889 Okay.
+00:26:10.563 All right, you gave me an amazing tour
+00:26:12.322 of Blue Origin RocketFactory and Launch Complex
+00:26:14.638 in the historic Cape Canaveral.
+00:26:17.024 That\'s where New Glenn,
+00:26:18.766 the big rocket we talkedabout is being built
+00:26:22.882 and will launch.
+00:26:24.524 Can you explain whatthe New Glenn Rocket is
+00:26:26.707 and tell me some interestingtechnical aspects
+00:26:28.635 of how it works?
+00:26:29.702 Sure.
+00:26:31.081 New Glenn is a very large,
+00:26:35.141 a heavy lift launch vehicle.
+00:26:37.643 It\'ll take about 45 metric tons to LEO,
+00:26:41.440 very, very large class.
+00:26:44.302 It\'s about half the thrust,
+00:26:46.664 a little more than half the thrust
+00:26:48.145 of the Saturn V Rocket.
+00:26:50.576 So it\'s about 3.9 millionpounds of thrust on liftoff.
+00:26:55.360 The booster has seven BE-4 engines.
+00:26:59.941 Each engine generates a little more
+00:27:02.141 than 550,000 pounds of thrust.
+00:27:05.507 The engines are fueledby liquid natural gas,
+00:27:09.359 liquified natural gas, LNG as the fuel
+00:27:12.475 and LOX as the oxidizer.
+00:27:15.257 The cycle is an ox-richedstage combustion cycle.
+00:27:19.283 It\'s a cycle that was reallypioneered by the Russians.
+00:27:21.858 It\'s a very good cycle.
+00:27:23.642 And that engine is also goingto power the first stage
+00:27:29.501 of the Vulcan rocket,
+00:27:30.738 which is the UnitedLaunch Alliance rocket.
+00:27:33.302 Then the second stage of New Glenn
+00:27:36.452 is powered by two BE-3U engines,
+00:27:39.307 which is a upper stage variant
+00:27:41.620 of our New Shephardliquid hydrogen engine.
+00:27:44.424 So the BE-3U has 160,000 pounds of thrust.
+00:27:47.826 So two of those 320,000 pounds of thrust
+00:27:51.920 and hydrogen is a very good propellant
+00:27:54.985 for upper stages becauseit has very high ISP.
+00:27:59.122 It\'s not a great propellantin my view for booster stages
+00:28:03.920 because the stages thenget physically so large.
+00:28:06.901 Hydrogen has very high ISP,
+00:28:10.163 but liquid hydrogen is very,
+00:28:12.767 is not dense at all.
+00:28:14.825 So to store liquid hydrogen, you know,
+00:28:17.377 if you need to store many thousands
+00:28:19.074 of pounds of liquid hydrogen,
+00:28:20.081 your tanks, your liquidhydrogen tank, it\'s very large.
+00:28:23.099 So you really, you get morebenefit from the higher ISP,
+00:28:27.252 the specific impulse.
+00:28:29.064 You get more benefit fromthe higher specific impulse
+00:28:31.719 on the second stage.
+00:28:33.906 And that stage carries less propellant.
+00:28:37.563 So you don\'t get suchgeometrically gigantic tanks.
+00:28:41.040 The Delta IV is an example of a vehicle
+00:28:44.064 that is all hydrogen.
+00:28:45.266 The booster stage is also hydrogen.
+00:28:47.582 And I think that it\'s avery effective vehicle,
+00:28:49.985 but it never was very cost effective.
+00:28:52.801 So it\'s operationally very capable
+00:28:55.400 but not very cost effective.
+00:28:56.899 So size is also costly.
+00:28:58.559 Size is costly.
+00:28:59.761 So it\'s interesting.
+00:29:01.503 Rockets love to be big.
+00:29:03.578 Everything works better.
+00:29:05.199 What do you mean by that?
+00:29:06.361 You\'ve told me that before.
+00:29:07.478 It sounds epic, but what does it mean?
+00:29:10.054 I mean, when you look at the,
+00:29:12.239 kind of the physics of rocket engines
+00:29:15.922 and also when you look at parasitic mass,
+00:29:19.742 it doesn\'t, if you have,
+00:29:20.862 let\'s say you have an avionic system,
+00:29:22.499 so you have a guidance and control system,
+00:29:25.059 that is gonna be aboutthe same mass and size
+00:29:29.506 for a giant rocket as it isgonna be for a tiny rocket.
+00:29:33.555 And so that\'s just parasitic mass
+00:29:37.119 that is very consequentialif you\'re building
+00:29:40.083 a very small rocket,
+00:29:41.206 but is trivial if you\'rebuilding a very large rocket.
+00:29:44.098 So you have the parasitic mass thing.
+00:29:46.323 And then if you look at, for example,
+00:29:48.099 rocket engines have turbo pumps.
+00:29:50.559 They have to pressurizethe fuel and the oxidizer
+00:29:53.800 up to a very high pressure level
+00:29:55.779 in order to inject itinto the thrust chamber
+00:29:58.101 where it burns.
+00:29:59.927 And those pumps, allrotating machines, in fact
+00:30:03.523 get more efficient as they get larger.
+00:30:06.765 So really tiny turbo pumps
+00:30:09.668 are very challenging to manufacture.
