@@ -4,4 +4,3 @@ query agent/config.json
 **/node_modules
 linkedin-post-curator/frontend/.next/**/*
 */
-
