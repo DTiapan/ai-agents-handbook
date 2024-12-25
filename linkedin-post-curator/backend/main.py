@@ -30,10 +30,10 @@ app.add_middleware(
 class ContentInput(BaseModel):
     transcript: str
     
-llm = LLM(
-    model="ollama/llama3.2",
-    base_url="https://precious-finch-truly.ngrok-free.app"
-)
+# llm = LLM(
+#     model="ollama/llama3.2",
+#     base_url="https://precious-finch-truly.ngrok-free.app"
+# )
 
 file_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'content.txt')
 

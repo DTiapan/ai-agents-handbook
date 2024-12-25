@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^3.2.2",
     "@shadcn/ui": "^0.0.4",
     "axios": "^1.7.8",
     "lucide-react": "^0.462.0",
