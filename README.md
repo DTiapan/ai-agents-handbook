@@ -42,7 +42,7 @@ To get started with the code snippets in this repository:
    git clone https://github.com/DTiapan/ai-agents-handbook.git
    ```
 
-2. Go to respective directory from avilable agents:
+2. Go to respective directory from available agents:
    ```bash
    cd ProfitPilot-ai
    ```
