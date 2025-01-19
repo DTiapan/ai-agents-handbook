@@ -4,3 +4,6 @@ query agent/config.json
 **/node_modules
 linkedin-post-curator/frontend/.next/**/*
 */
+
+ai sales agent/
+Medical History Assistant/
