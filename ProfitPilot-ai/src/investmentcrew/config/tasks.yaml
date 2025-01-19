@@ -1,0 +1,19 @@
+financial_analyst_task:
+  description: >
+    Analyze the financial health of {ticker} using ratios and 
+    financial statements. Focus on:
+    1. Profitability
+    2. Liquidity
+    3. Solvency
+    4. Efficiency
+  expected_output: >
+    summarize the financial health of {ticker} so that investment decesion can be made by decesion maker
+  agent: financial_analyst
+
+investment_decision_maker_task:
+  description: >
+    Analyze all previous assessments for {ticker} and make investment decisions
+  expected_output: >
+    Make an investment decision for {ticker} based on the financial analysis, suggest buy, sell or hold in short and long term with confidence score
+    give me data in table format.
+  agent: investment_decision_maker
