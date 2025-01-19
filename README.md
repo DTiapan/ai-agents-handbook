@@ -42,6 +42,16 @@ To get started with the code snippets in this repository:
    git clone https://github.com/DTiapan/ai-agents-handbook.git
    ```
 
+2. Go to respective directory from avilable agents:
+   ```bash
+   cd ProfitPilot-ai
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 ## 🎉 Contributions Welcome!
 
 The AI Agents Handbook is a **community-driven project**! Whether you're a researcher, developer, or AI enthusiast, we welcome your contributions. There are many ways to get involved:
