@@ -73,6 +73,7 @@ We are excited to connect with others in the AI community! If you’re intereste
 
 - **Email**: [bakran.ajas@gmail.com](mailto:bakran.ajas@gmail.com)
 - **LinkedIn**: [ajasbakran](https://www.linkedin.com/in/ajasbakran/)
+- **Weekly Newsletter**: [Grow with AI](https://growithai.substack.com/)
 
 Feel free to contact us for collaboration ideas, or if you have any questions about AI Agents Handbook. Let’s work together to drive AI forward!
 
