@@ -25,6 +25,14 @@ This handbook covers a wide range of topics related to AI agents, including but 
 
 This content is structured to provide a balanced blend of theory, practical insights, and code snippets so readers can immediately start applying their knowledge.
 
+
+## 📂 Featured AI Projects
+
+[Content Creation AI Agent](https://github.com/DTiapan/ai-agents-handbook/blob/main/content%20creation%20agent/agent.py)  
+[LinkedIn Post Generator AI Agent](https://github.com/DTiapan/ai-agents-handbook/tree/main/linkedin-post-curator)  
+[Stock Analyst AI Agent](https://github.com/DTiapan/ai-agents-handbook/tree/main/ProfitPilot-ai)  
+
+
 ## Getting Started
 
 To get started with the code snippets in this repository:
