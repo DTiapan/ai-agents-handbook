@@ -25,6 +25,14 @@ This handbook covers a wide range of topics related to AI agents, including but 
 
 This content is structured to provide a balanced blend of theory, practical insights, and code snippets so readers can immediately start applying their knowledge.
 
+
+## 📂 Featured AI Projects
+
+[Content Creation AI Agent](https://github.com/DTiapan/ai-agents-handbook/blob/main/content%20creation%20agent/agent.py)  
+[LinkedIn Post Generator AI Agent](https://github.com/DTiapan/ai-agents-handbook/tree/main/linkedin-post-curator)  
+[Stock Analyst AI Agent](https://github.com/DTiapan/ai-agents-handbook/tree/main/ProfitPilot-ai)  
+
+
 ## Getting Started
 
 To get started with the code snippets in this repository:
@@ -32,6 +40,16 @@ To get started with the code snippets in this repository:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/DTiapan/ai-agents-handbook.git
+   ```
+
+2. Go to respective directory from available agents:
+   ```bash
+   cd ProfitPilot-ai
+   ```
+
+3. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
    ```
 
 ## 🎉 Contributions Welcome!
@@ -55,6 +73,7 @@ We are excited to connect with others in the AI community! If you’re intereste
 
 - **Email**: [bakran.ajas@gmail.com](mailto:bakran.ajas@gmail.com)
 - **LinkedIn**: [ajasbakran](https://www.linkedin.com/in/ajasbakran/)
+- **Weekly Newsletter**: [Grow with AI](https://growithai.substack.com/)
 
 Feel free to contact us for collaboration ideas, or if you have any questions about AI Agents Handbook. Let’s work together to drive AI forward!
 
