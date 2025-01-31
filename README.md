@@ -32,6 +32,7 @@ This content is structured to provide a balanced blend of theory, practical insi
 [LinkedIn Post Generator AI Agent](https://github.com/DTiapan/ai-agents-handbook/tree/main/linkedin-post-curator)  
 [Stock Analyst AI Agent](https://github.com/DTiapan/ai-agents-handbook/tree/main/ProfitPilot-ai)  
 [Medical Assistant AI Agent](https://github.com/DTiapan/ai-agents-handbook/tree/main/AI%20medical%20Assistant)  
+[AI Coach](https://github.com/DTiapan/ai-agents-handbook/tree/main/ai-coach)  
 
 ## Getting Started
 
