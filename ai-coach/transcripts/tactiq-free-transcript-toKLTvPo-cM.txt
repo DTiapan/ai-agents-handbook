@@ -1,0 +1,681 @@
+# tactiq.io free youtube transcript
+# how anyone can get into AI in 2025
+# https://www.youtube.com/watch/toKLTvPo-cM
+
+00:00:01.160 today I want to answer the question on
+00:00:02.560 everyone's mind how to get into Ai and
+00:00:05.480 um you saw the title you know what this
+00:00:06.919 is about um and today I wanted to do a
+00:00:09.280 little bit more of a casual video um me
+00:00:11.920 here walking on the beach taking a
+00:00:14.240 little moment to I guess reflect on 2024
+00:00:16.560 and look forward to 2025 and this is a
+00:00:18.960 question I get asked a lot um for people
+00:00:21.840 of all all ages and stages in their
+00:00:23.640 career we've got 18 year- olds wanting
+00:00:25.960 to get into Ai and not knowing where to
+00:00:28.720 start we've got middle AG people in the
+00:00:30.640 middle of their career wanting to get
+00:00:31.840 into Ai and not knowing where to start
+00:00:33.760 and uh if you're new to the channel
+00:00:35.840 don't know who I am my name is Le Motley
+00:00:38.280 and I've been building AI businesses and
+00:00:39.879 I got myself into AI over 2 years ago
+00:00:42.640 and since then I've got a pretty unique
+00:00:44.399 perspective on this topic because I've
+00:00:46.079 helped thousands of maybe tens of
+00:00:48.480 thousands of people now to also get into
+00:00:50.320 Ai and so I've had Direct interactions
+00:00:52.960 and like sort of seen indirectly
+00:00:54.840 people's post and and the progress I've
+00:00:56.480 made and so I have a pretty unique and
+00:00:58.960 maybe even one of a kind perspective on
+00:01:01.680 seeing thousands of people successfully
+00:01:03.320 make the transition into Ai and what it
+00:01:04.920 takes what the patterns are among those
+00:01:06.560 who succeed and in this video I want to
+00:01:08.720 give you kind of
+00:01:10.360 a a crash course or
+00:01:13.520 a I wish I knew this before I started
+00:01:16.040 kind of thing for for anyone of all all
+00:01:18.759 sorts of backgrounds in all different
+00:01:20.119 Lanes of life right now um and I'm going
+00:01:22.159 to break it down to three different
+00:01:23.320 categories which I'll walk through in a
+00:01:24.640 second um so it's really is going to
+00:01:26.040 cover basically anyone if you click on
+00:01:27.880 this video um this is going to contain a
+00:01:30.079 strategy for you based off the success
+00:01:32.000 that I either I've had personally or of
+00:01:34.320 what I've seen in the uh in the space
+00:01:36.360 more broadly so I have 65,000 people in
+00:01:39.720 my school Community I have had thousands
+00:01:41.600 of people that have helped through my
+00:01:42.600 pay program Etc I have my own AI
+00:01:45.320 automation agen morning sat a I I got 40
+00:01:47.159 people working for me uh we've got an
+00:01:48.840 office here in a city like a I don't
+00:01:51.159 know what more you want me to throw at
+00:01:52.880 you to to think that I'm qualified to
+00:01:54.200 give this information but there it is
+00:01:55.880 for the Skeptics for the newbies that's
+00:01:57.560 that's me and that's my my credentials
+00:01:59.200 so um first thing we need to think about
+00:02:01.799 if we're talking about getting into AI
+00:02:03.759 is is like defining it right so what do
+00:02:06.799 we actually class and Define as getting
+00:02:08.720 into Ai
+00:02:10.400 and uh to me that and to many people
+00:02:13.200 would agree uh that comes down to
+00:02:15.879 building some kind of valuable AI skills
+00:02:17.800 or knowledge and then being able to
+00:02:19.400 monetize those skills and and that
+00:02:21.120 knowledge um to move you move your
+00:02:23.640 career into the AI space right this can
+00:02:25.440 be broadly split into three different
+00:02:26.959 groups firstly we have the uh time rich
+00:02:29.440 and poor people and then we have the
+00:02:32.440 cash rich but time poor people and then
+00:02:34.879 we have sort of the trickiest of the
+00:02:36.080 bunch the cash poor and time for people
+00:02:38.680 so if you are thinking about getting
+00:02:39.720 into AI you likely fit into one of those
+00:02:41.200 buckets and we're going to break down
+00:02:43.040 strategy for each of those right now so
+00:02:45.040 the first people as a Persona uh of the
+00:02:48.519 cash poor but time Rich uh these are
+00:02:51.239 people like say 18y olds who are just
+00:02:52.840 starting on their uh leaving high school
+00:02:55.640 and they're looking to get into the
+00:02:56.519 workforce looking to train up an AI and
+00:02:58.840 to get a get a roll off or move into
+00:03:00.519 that as a career these people do not
+00:03:02.879 necessarily have a lot of money on hand
+00:03:04.760 they can't afford to invest in the best
+00:03:06.959 educational programs but they do have a
+00:03:08.560 lot of time and often a lot of energy as
+00:03:10.480 well if you're a younger person and so I
+00:03:12.840 I've fit into this category myself I'm
+00:03:15.000 I'm 24 years old and uh I mean there
+00:03:17.040 it's not necessarily age restricted but
+00:03:19.440 uh generally people who are are younger
+00:03:21.159 are going to have a lot more time but
+00:03:22.319 less money to to throw out this problem
+00:03:23.959 if you are in this category the strategy
+00:03:26.280 to get into AI that I would recommend is
+00:03:28.840 that you need to approach from a
+00:03:30.239 standpoint of I have the time and the
+00:03:32.480 energy to invest in learning the skills
+00:03:35.200 that are going to allow me to make money
+00:03:36.439 in the space moving forward and that
+00:03:37.760 primarily comes down to um things
+00:03:41.239 like primarily comes down to um AI
+00:03:45.760 automation as a skill set and this is
+00:03:48.040 going to rub a few of you the wrong way
+00:03:50.120 because you think you need to be a
+00:03:51.519 developer to get into this but the
+00:03:53.280 reality is there's so much uh available
+00:03:56.680 now for people to learn lood and locco
+00:03:58.959 Platforms in order to to build AI
+00:04:01.120 systems for businesses or to get into
+00:04:02.560 the AI automation economy that anyone
+00:04:05.720 can can get into it I've I've seen it
+00:04:07.480 firsthand people have just put in the
+00:04:09.519 work to learn these different platforms
+00:04:11.079 that allow you to build stuff without
+00:04:12.400 necessarily being a super Advanced
+00:04:14.360 developer and so the the pathway that
+00:04:16.478 I'd recommend for you if you're in this
+00:04:17.759 boat is to firstly focus on free self-
+00:04:19.959 study and so the free self stud is going
+00:04:21.918 to allow you to upskill first and
+00:04:23.919 foremost um there's so much available
+00:04:26.400 free I have a free course on my school
+00:04:28.199 if you want to watch that I don't really
+00:04:29.400 care if you you watch it or not but
+00:04:30.840 there's a free course people make free
+00:04:32.199 courses there's free YouTube content
+00:04:34.120 everywhere but it's focused around can I
+00:04:36.479 build a a skill set in the AI automation
+00:04:39.080 space I would recommend starting off
+00:04:41.039 with if you're serious about this long
+00:04:42.680 term starting off with taking a Basics
+00:04:45.120 and python course it's like $20 on you
+00:04:47.120 to you to me I'll leave a link to the
+00:04:48.800 one that I took back in the day um down
+00:04:51.479 below and if you learn the basics of of
+00:04:53.919 python that's a great Foundation then
+00:04:55.240 you move into say things like voice flow
+00:04:57.240 or relevance AI or building voice agents
+00:05:00.680 on vapy and things like this you don't
+00:05:02.639 need to be an extremely proficient
+00:05:04.800 developer to be able to create value
+00:05:06.120 with these AI systems these days so uh
+00:05:08.440 the low code and no code platforms are
+00:05:10.160 really proliferating these days and
+00:05:12.360 they're getting really really good at
+00:05:13.720 doing uh a bunch of key things for small
+00:05:15.919 to medium-sized businesses so once
+00:05:17.880 you've got that base of skills you need
+00:05:19.880 to move into uh can I apply those skills
+00:05:23.160 in the real world and can I get some
+00:05:24.400 real world experience and this typically
+00:05:27.039 comes down to offering your services for
+00:05:28.520 free and saying hey can I I uh going
+00:05:31.720 into my free community or another place
+00:05:33.400 where you can find people who are
+00:05:34.400 looking for these kind of services and
+00:05:37.319 offering your services free and saying
+00:05:38.960 hey I'd like to get some real world
+00:05:40.240 experience of applying this AI
+00:05:41.759 automation skill set to uh a business or
+00:05:44.759 to I don't know someone's personal life
+00:05:46.479 a little automation for them basically
+00:05:48.400 turning that knowledge into actual
+00:05:50.400 experience in delivering and building
+00:05:52.039 these kind of systems and from there you
+00:05:54.120 get a chance to progress that to
+00:05:56.319 actually Ai freelancing and making money
+00:05:57.960 from them so once you've got enough
+00:05:59.280 experience and you've built a few of
+00:06:01.520 them out for people for free then you
+00:06:03.360 can start to charge for the same
+00:06:04.880 Services right so it's it's being
+00:06:08.240 visible in places like my free community
+00:06:10.080 or wherever you again wherever you want
+00:06:11.319 to do I just use my Community as an
+00:06:13.240 example because that's what I know and I
+00:06:14.919 know people have been using that
+00:06:16.720 successfully and beyond that you can go
+00:06:19.360 and start to use this AI freelancing
+00:06:21.039 route and monetizing based off the skill
+00:06:23.080 set basically the low code no code
+00:06:24.880 development skill set that you have
+00:06:26.199 created and that can lead on to starting
+00:06:28.880 your own AI autom agency it can lead on
+00:06:31.000 to doing Partnerships or whatever you
+00:06:32.280 want to do but that is how you get into
+00:06:34.160 it as someone who was time time poor but
+00:06:37.960 no time rich but cash poor um the second
+00:06:41.000 group is the people who are cash rich
+00:06:43.800 but time poor time poor and cash Rich so
+00:06:47.160 these are people
+00:06:49.599 like uh 30 to 40y old people who maybe
+00:06:53.199 in the middle of their career middle of
+00:06:54.880 their supposedly money-making or what
+00:06:57.000 should be their money-making section of
+00:06:58.960 their career
+00:07:00.599 and they are looking
+00:07:02.680 to uh they have the cash they have the
+00:07:04.759 funds they've been saving up hopefully
+00:07:06.879 um and they have the funds but they
+00:07:08.319 don't have the time they may have a
+00:07:09.400 family they may have kids um they may
+00:07:12.400 have obviously a job um so they're
+00:07:14.319 juggling a lot of things at once but
+00:07:15.919 they do have the funds and so the
+00:07:17.319 strategy for these people is slightly
+00:07:19.520 different to what I would recommend for
+00:07:21.520 someone who is a uh say a younger
+00:07:24.240 student or someone who's got a lot of
+00:07:26.000 time but uh not a lot of money and that
+00:07:28.319 would be to firstly focus on can where
+00:07:31.759 can I spend my money to get the biggest
+00:07:34.280 uh base of skills and knowledge well
+00:07:35.919 skills you have to kind of work on but
+00:07:37.479 the idea is you find there's so much
+00:07:39.680 available online now for paid courses on
+00:07:42.240 on uh on on upskilling an AI whether
+00:07:44.520 that's getting a foundational
+00:07:46.599 understanding of what the technology is
+00:07:47.759 and what it can do most of the money is
+00:07:50.000 is going to be created around how AI can
+00:07:52.840 help businesses I'll tell you that right
+00:07:54.159 now so that's that's where I'd be
+00:07:55.560 focusing on best AI use cases how to
+00:07:57.720 identify use cases um how to understand
+00:08:00.280 how to build one of these systems and
+00:08:02.400 and really fit the pieces together and
+00:08:04.759 that sort of falls into more of an AI
+00:08:06.800 consultant role the reason I'm
+00:08:08.000 recommending the strategy is because by
+00:08:10.360 doing so you're not necessarily having
+00:08:11.840 to become an AI developer or an AI
+00:08:13.840 automation engineer you would just going
+00:08:15.800 I'm going to learn enough about this
+00:08:17.080 technology where I can start to
+00:08:18.280 communicate with other people and once
+00:08:20.240 you have that base of information that
+00:08:21.960 you've I mean you might have to spend
+00:08:23.639 you might have to buy four or five
+00:08:24.800 different paid programs I'm going to be
+00:08:26.560 honest like there's a bunch of Duds out
+00:08:28.319 there and this is not just a a sales
+00:08:29.879 pitch for my mine but that is the case
+00:08:32.919 and and if I was going into it in your
+00:08:34.200 position I would be saying look I'm
+00:08:35.880 going to spend my money that I have to
+00:08:38.200 try and get an advantage in this market
+00:08:40.080 and there may I may buy someone's course
+00:08:41.679 and it's a dud and I may find one that's
+00:08:43.519 incredible but you should be willing to
+00:08:45.760 see it as an investment and not all
+00:08:47.279 Investments go up right so that's just
+00:08:50.160 the reality of the online education
+00:08:51.720 Market is that there are people who are
+00:08:53.920 are not really giving up the value that
+00:08:55.760 that that they promis right so I don't
+00:08:57.600 want to get into all of that um then
+00:08:59.240 again this is not a sales pitch I'm
+00:09:00.560 really just trying to give you exactly
+00:09:02.200 what I would do in your position which
+00:09:03.320 is spend probably more than I was I was
+00:09:06.720 initially planning to right you need a
+00:09:08.040 bit of a shotgun approach cuz if you
+00:09:09.240 want to get it fast and results fast
+00:09:11.720 that is what it's going to take as a bit
+00:09:13.000 of a
+00:09:14.640 like turn off the turn off the brain on
+00:09:17.279 some of those purchases because you just
+00:09:18.519 need to use your advantage which is cash
+00:09:20.440 to get your advantage in the Knowledge
+00:09:22.160 and Skills categor so once you've got
+00:09:23.560 that the next step after that is to then
+00:09:25.880 take uh you need to if you want to make
+00:09:28.079 money with it you need to be able to
+00:09:29.440 advertise your services or advertise
+00:09:31.160 your uh who you are and the stuff that
+00:09:33.720 you know right so marketing the easiest
+00:09:36.720 way at least in my experience as you can
+00:09:38.560 see I'm walking on a beach right now
+00:09:41.360 really it's it's a great great
+00:09:43.480 advertisement for uh personal branding
+00:09:45.920 and content creation but is to uh is to
+00:09:48.880 work on content creation and build a
+00:09:50.120 personal brand and building a personal
+00:09:52.600 brand can start on say one platform only
+00:09:54.480 is all you need LinkedIn X our Twitter
+00:09:57.720 formerly Twitter YouTube
+00:10:00.000 you can do blog writing on things like
+00:10:01.560 medium but basically how can you start
+00:10:04.480 to play a part oh sorry how can I start
+00:10:08.920 to play a part in the in the commentary
+00:10:10.720 and in the the discussion in the AI
+00:10:12.640 space and how can I start to like plant
+00:10:14.399 my flag and share my opinions and share
+00:10:16.519 my thoughts and share some value to
+00:10:18.480 people who are interested in making this
+00:10:19.720 transition and again primarily it's
+00:10:21.000 going to be focused on businesses um
+00:10:24.160 using the knowledge you gain from your
+00:10:25.480 paid programs to start to communicate to
+00:10:27.240 the hundreds of millions of businesses
+00:10:29.839 who are needing some kind of AI guidance
+00:10:32.560 on someone to help them through this
+00:10:33.880 transition and even if you're not a
+00:10:35.639 developer or you haven't got this big
+00:10:36.800 development skill set like the other
+00:10:38.079 guys that can still mean that you are
+00:10:40.720 able to help them with the basics which
+00:10:42.800 is education what is this technology
+00:10:44.279 what can it do we found in my own agency
+00:10:46.480 that if you can't even do that part for
+00:10:49.000 businesses then you can never go on and
+00:10:50.399 sell them anything anything more like
+00:10:51.880 implementation is so much so much
+00:10:53.800 further down the line than we initially
+00:10:55.279 thought there there's like the whole
+00:10:56.920 layer of Education initially of what is
+00:10:59.920 and and how it can help the business and
+00:11:01.839 then it's use case identification so
+00:11:03.360 more Consulting layer then there's
+00:11:04.880 finally a uh like the implementation
+00:11:07.279 comes comes very last and so there's a
+00:11:09.600 lot of value to be created and and money
+00:11:11.040 to be made in that initial layer of
+00:11:13.320 Education um and use case identification
+00:11:15.560 which you can go to because you have
+00:11:17.560 taken you've invested in those courses
+00:11:19.160 Etc once you've got the personal brand
+00:11:21.079 wunning it might take you maybe 1 to 2
+00:11:23.279 hours a day I know you're supposed to be
+00:11:24.519 time po but realistically this is going
+00:11:26.040 to take some time that's I'm not going
+00:11:27.360 to you there but if you can
+00:11:30.959 find a good strategy for say LinkedIn
+00:11:32.680 personal branding there's so much out
+00:11:33.959 there on the internet right now you
+00:11:35.200 might not even like pay like Justin
+00:11:37.320 Welsh has like A90 $97 LinkedIn course
+00:11:40.600 and if you just follow that I'm sure
+00:11:41.639 you're going to be able to build some
+00:11:42.800 momentum like it's it's all out there
+00:11:44.120 it's just really your your
+00:11:45.959 resourcefulness that's going to
+00:11:46.920 determine your success here so
+00:11:48.639 scheduling in once 2 hours every day for
+00:11:50.279 Content creation um to get that ball
+00:11:52.920 rolling and then that's ultimately going
+00:11:54.440 to lead to being able to sell some kind
+00:11:56.279 of some kind of AI consult Consulting
+00:11:59.519 offer just uh low tiet Consulting say
+00:12:01.880 like $100 an hour $200 an hour through
+00:12:04.320 your personal brand or what I would
+00:12:06.399 recommend is looking into a low ticket
+00:12:09.360 uh education or or course in this case
+00:12:12.079 where through the personal branding you
+00:12:13.519 can uh direct businesses that you
+00:12:16.720 interact with
+00:12:18.560 to a introduction to AI course basically
+00:12:21.519 for them to understand it more and you
+00:12:22.920 can even go and do some local lead genin
+00:12:25.000 and start to offer this thing out for
+00:12:26.240 free but basically what you want to do
+00:12:27.959 with that is either making money through
+00:12:29.399 the consulting or you can sell the
+00:12:31.079 course for a price or uh what I I would
+00:12:33.959 recommend longer term is to start to
+00:12:35.399 build a relationship with these
+00:12:36.519 businesses as their trusted AI partner
+00:12:39.279 and from there you can pass on and
+00:12:41.480 identify use cases and pass those leads
+00:12:43.440 to other AI automation agencies that
+00:12:46.079 actually have development capabilities
+00:12:48.480 and they can do the implementation step
+00:12:50.120 and you can take a card of those fees so
+00:12:52.040 really you're saving this strategies is
+00:12:53.519 primarily based on you get to avoid
+00:12:55.880 having to do all of the development work
+00:12:57.800 that that would be much sure bet if I'm
+00:13:00.639 honest um and and getting that AI
+00:13:02.639 automation skill set cuz it's been very
+00:13:04.199 beneficial for my my career so far and
+00:13:07.279 instead you're focusing on can I
+00:13:10.480 communicate this to businesses can I
+00:13:12.079 warm them up to the idea of AI can I
+00:13:13.720 make some money Consulting on the side
+00:13:15.519 and then can I get them to the point
+00:13:16.880 where they're ready for implementation
+00:13:18.199 and profit on that handoff so you pass
+00:13:20.600 off the hardest work the dev work the
+00:13:22.120 implementation to someone else so that's
+00:13:24.760 strategy for the cash Rich for time poor
+00:13:26.800 people and finally you've got the the
+00:13:28.720 time Po and the cash War people which I
+00:13:31.760 think are obviously in the the stickiest
+00:13:34.360 situation of anyone and I'd say these
+00:13:36.279 are like young professionals say they
+00:13:40.040 are 25 to 30 and they have a it might be
+00:13:45.360 in the phase of their career where
+00:13:46.360 they're really working hard they're in
+00:13:47.600 the office all day every day whatever
+00:13:50.040 career you you want to insert there but
+00:13:52.560 they're working hard they're trying to
+00:13:53.959 increase their their earning potential
+00:13:55.639 in their career
+00:13:57.560 and are they also don't have a lot of
+00:13:59.600 time right so they haven't had the
+00:14:00.920 chance to get a lot of savings and save
+00:14:02.880 up some money like maybe a 40 to 50y old
+00:14:05.120 person would and they're also putting
+00:14:06.880 all of their work into the job so that
+00:14:08.360 they can or their time into the job so
+00:14:10.320 that they can uh they can increase their
+00:14:12.320 earning potential in the next part of
+00:14:13.759 their career right they're still like
+00:14:15.279 ramping up and trying to get their
+00:14:16.320 savings up as well so your cash B and
+00:14:18.040 time B unfortunately that's a pretty
+00:14:20.800 tricky position to be in
+00:14:23.759 and the only recommendation I could do
+00:14:26.000 here is if you can try to one do
+00:14:28.040 self-study as I said like there's so
+00:14:30.000 much on YouTube just start to pick up
+00:14:31.959 some skills on the side and the little
+00:14:33.279 time that you do have available is to
+00:14:35.360 start to do some slow self study just
+00:14:37.560 gradually picking picking up new skills
+00:14:39.560 here and there maybe you're building a
+00:14:41.079 little automation for this a little
+00:14:42.320 automation for that um making your own
+00:14:44.920 AI tools which are fairly easy to do
+00:14:46.480 I've got tutorials here on the channel
+00:14:48.800 and then trying to get if you can if
+00:14:50.560 your job Ms it some kind
+00:14:53.079 of role within the company or even just
+00:14:55.560 micro projects in the company where you
+00:14:57.720 get to flex those AI muscles and do
+00:14:59.600 something for them internally and this
+00:15:00.800 start to build your own P portfolio and
+00:15:03.120 a set of case studies and testimonials
+00:15:05.120 well I guess it wouldn't be a
+00:15:05.959 testimonial from your your company maybe
+00:15:08.240 they would I doubt it but uh essentially
+00:15:11.120 a case study or portfolio of things that
+00:15:12.639 you've done and some hands-on experience
+00:15:14.720 which becomes very valuable um I've have
+00:15:17.199 reached the end of the beach here so I'm
+00:15:18.639 start walking back and once you've found
+00:15:19.959 a little bit of momentum there you are
+00:15:21.800 acquiring more skills and you're adding
+00:15:23.079 this to your to your portfolio um you
+00:15:26.600 can start to share those things on
+00:15:27.680 LinkedIn job permitting of course
+00:15:29.680 um or we can create an anonymous X
+00:15:31.199 profile or we can do something you
+00:15:32.240 basically start to tell the world or
+00:15:34.199 communicate that you're doing these
+00:15:35.360 things and build up a bit of a a
+00:15:36.880 credibility bank is really what you're
+00:15:38.199 looking to do is slowly building up yes
+00:15:40.560 I know what I'm talking about I've done
+00:15:41.800 this thing and then you can ultimately
+00:15:43.000 take a rout a route more similar to the
+00:15:46.199 uh the time poor time rich but cash poor
+00:15:48.600 people where you can move into a an AI
+00:15:52.000 freelancing role or you can try to be
+00:15:54.480 become like an internal AI consultant
+00:15:56.120 for for a business or something like
+00:15:57.399 that so that's how i' commend it's
+00:16:00.199 really tricky I'm not going to lie for
+00:16:01.360 those there's time for and cash for
+00:16:03.600 people but there's only so much you can
+00:16:06.360 do and uh starting internally for
+00:16:09.399 example there's a guy uh from my
+00:16:11.240 accelerator actually and I've done an
+00:16:13.199 interview with him here on the channel
+00:16:14.360 Hamza I'll put it in my uh in the
+00:16:16.839 description of this video but Hamza was
+00:16:18.759 a student and he was doing his
+00:16:21.040 internship um work experience and he was
+00:16:23.800 doing some really boring manual uh data
+00:16:26.959 entry rubbish right they should have
+00:16:28.600 been aut made a long time ago all right
+00:16:30.519 sorry we've uh had a camera malfunction
+00:16:32.720 it's run out of battery but I'll finish
+00:16:34.040 it off quickly
+00:16:35.639 um hza was doing this manual data entry
+00:16:38.880 and he realized he could automate it
+00:16:40.560 with a fairly basic system and so once
+00:16:42.440 he
+00:16:43.279 automated basically did it himself and
+00:16:45.519 said hey this is the results that I've
+00:16:47.040 gotten i' I've now to automate this pass
+00:16:48.639 completely and they're like well you
+00:16:49.560 just saved us weeks of work and that was
+00:16:51.519 really his first uh his first step into
+00:16:55.079 implementing real AI solutions that
+00:16:56.560 could actually provide some value to
+00:16:57.680 businesses so from that momentum and
+00:17:00.000 from that experience he was able to then
+00:17:01.399 go on and sort of get deeper and deeper
+00:17:03.360 into the space I think he bought into
+00:17:04.359 into accelerator after that or was
+00:17:05.959 already in it before I sure again I
+00:17:07.919 don't this is not supposed to be a Sal
+00:17:09.119  but it is just an example that I'm
+00:17:11.160 familiar with um and then he was able to
+00:17:14.839 move into uh starting his own AI a
+00:17:17.439 little micro AI SAS for realtors and in
+00:17:20.160 the mortgage industry I believe it was
+00:17:21.480 anyway you can watch the video I'll put
+00:17:22.559 it down below here his whole
+00:17:24.359 story but that's the process where you
+00:17:26.280 can if you can find things internally
+00:17:27.679 that are small and that you can you can
+00:17:29.799 libel off uh and start to create some
+00:17:32.080 value internally within the company um
+00:17:34.039 and that's going to be a good it's
+00:17:35.320 better than nothing right it's going to
+00:17:36.520 be some sort of progress towards
+00:17:37.760 transitioning and you might be able to
+00:17:38.799 get a a promotion to being the AI guy
+00:17:41.240 within like starting an AI department or
+00:17:42.880 leading some kind of AI use case
+00:17:44.520 identification internally which
+00:17:45.679 companies are looking for so now all of
+00:17:48.600 this being said all of this being said
+00:17:51.880 um what is the the kind of key takeway
+00:17:54.280 here and for 2025 I I know a lot of
+00:17:58.480 people trying answer this question right
+00:17:59.679 so how can I get into AI um what what
+00:18:02.360 steps I need to take and I tried to give
+00:18:03.640 it to you care as clearly as possible um
+00:18:05.720 this is not meant to be like an
+00:18:06.799 implementation video I think some people
+00:18:08.120 get mad at mean sometimes for not giving
+00:18:10.840 you like the granula step by step send
+00:18:13.960 this DM to this person and this I'm
+00:18:16.240 sorry but like there is a certain like
+00:18:18.960 filter on intelligence and also on like
+00:18:23.760 self-determination and uh and motivation
+00:18:25.720 to do things that is going to stop the
+00:18:27.840 majority of people from getting into
+00:18:29.000 this stuff and making this jump and if
+00:18:30.880 you expect someone to absolutely spoon
+00:18:33.159 feed you every single step of the way
+00:18:34.880 for free then uh you're probably not
+00:18:38.000 going to make it I'm going to be honest
+00:18:39.679 but if you are someone who can watch say
+00:18:41.400 a high level video like this where I'm
+00:18:42.799 breaking down these sort of patterns and
+00:18:44.840 recommended
+00:18:46.440 strategies and then from there you go
+00:18:48.919 and implement it and you do your own
+00:18:50.080 self-study and that is that is how the
+00:18:52.200 majority of people actually get into the
+00:18:53.480 stuff it's not by being spoonfed every
+00:18:55.360 single step of the way it's been given a
+00:18:57.039 nudge in the right direction right
+00:18:58.840 information and and Direction and then
+00:19:02.000 taking action on it because there there
+00:19:03.880 there's no way that anyone could do
+00:19:05.320 every single step forward so guess my
+00:19:07.919 closing closing notes on this is that
+00:19:09.720 everyone wants to get into it but why
+00:19:11.640 why should you actually get into it and
+00:19:13.480 I mean personally the ai ai space for me
+00:19:16.919 represents
+00:19:18.159 a a multiplier or an accelerant on my
+00:19:20.880 career and on the inputs that I put into
+00:19:22.840 it I know I'm going to work my ass off
+00:19:24.559 wherever I go and put my time and and
+00:19:26.640 really give my order anything I get into
+00:19:28.240 some people like that some people just
+00:19:29.919 don't really have that sort of passion
+00:19:31.919 and desire to to do stuff within the
+00:19:33.880 career I completely get that like you
+00:19:35.200 could be up for a bit more of a a CH
+00:19:37.240 life or whatever but personally not me
+00:19:40.760 and the AI space has been an accelerant
+00:19:43.280 on my career um I was online
+00:19:46.240 entrepreneur for 4 years made good money
+00:19:49.280 but the past two years switching into
+00:19:50.640 the AI space has just made it completely
+00:19:52.840 explode both because of the timing of
+00:19:54.840 the market how early we are but also the
+00:19:56.679 potential of this technology as a whole
+00:19:58.760 and so if you're looking to get more out
+00:20:00.360 of what you put into your life and your
+00:20:01.840 career then this is a good choice and
+00:20:04.080 this is a investing your time and and
+00:20:06.080 pivoting towards this AI space I promise
+00:20:08.240 you I mean not this is not should be
+00:20:10.640 like a Tai Lopez and like here in my
+00:20:12.320 garage kind of thing but it's like
+00:20:14.080 midday on a Friday this is my last day
+00:20:15.760 of work for the year uh my my company's
+00:20:19.280 clocking off we're all going off for a
+00:20:20.520 Christmas break and it it works it it it
+00:20:24.440 really has made a significant change in
+00:20:26.120 my life and career and everything I've
+00:20:27.159 been able to do so
+00:20:29.159 I hope if if you're watching this and
+00:20:30.640 you're thinking of making the jump just
+00:20:32.159 know that it's not going to be easy I'm
+00:20:33.280 not going to tell you that it's going to
+00:20:34.159 be easy
+00:20:36.520 but it is worth it and it's as cliche as
+00:20:39.400 it sounds it is an accelerant on your
+00:20:41.559 life and your career if you can go in
+00:20:44.000 and and go through the right steps like
+00:20:46.000 I talked about in this video
+00:20:48.080 so don't expect it to be easy don't
+00:20:50.799 expect it to be spoonfed to you but if
+00:20:53.679 you are willing to put in the work now
+00:20:55.840 and be early to this and be one of the
+00:20:57.520 people who does make the transition
+00:20:59.280 the the Safety and Security I feel like
+00:21:01.760 I have in my career in the space is is
+00:21:05.000 second to none I I know that I can just
+00:21:06.600 go all in on this for the next decade at
+00:21:08.240 least and I have so much not only wealth
+00:21:11.080 and value to create but also memories
+00:21:13.240 and and impact as well like there's so
+00:21:15.559 many areas of this this space where we
+00:21:17.799 need people to come in and actually see
+00:21:20.039 where the market is going and decide hey
+00:21:22.279 I want to play a role in fixing that
+00:21:23.679 problem or addressing this particular
+00:21:25.440 societal issue that AI is going to cause
+00:21:27.360 so if you're looking for a
+00:21:29.520 a chance to make an impact to make a
+00:21:31.000 whole lot of money to uh be in a in a
+00:21:35.360 space where you get lots of excited new
+00:21:36.960 people coming in and and making great
+00:21:38.600 friends I've got so many awesome friends
+00:21:39.960 that I've made from my my time in the
+00:21:41.799 space now so I hope you get the I hope
+00:21:44.919 you get it I don't I don't know what
+00:21:45.880 more else I can say I tried to give you
+00:21:47.400 three different ways here and each of
+00:21:51.039 those categories that's what I'd be
+00:21:52.080 doing if I going into 2025 and at the
+00:21:54.600 end of the day that's all I can really
+00:21:56.039 give you on this channel is what I would
+00:21:57.720 do on my my recommendations and my
+00:21:59.919 thoughts so my arm is getting really
+00:22:02.120 sore now so um that's been me I guess
+00:22:04.919 this might be the last one for 2025 or
+00:22:06.760 one more but um I sincerely wish you all
+00:22:09.840 have an excellent Christmas and holiday
+00:22:12.200 break if that's what you celebrate New
+00:22:13.960 Year's um I appreciate all of your
+00:22:16.440 support for over two years now here on
+00:22:18.640 YouTube and really hasn't made that much
+00:22:21.039 of a difference in my life having a
+00:22:23.080 chance to share my thoughts and and help
+00:22:25.120 you people through this as well so a
+00:22:26.880 little heartfelt thanks for me and the
+00:22:28.520 time morning side team CU you've not
+00:22:30.120 only impacted My Life by your support
+00:22:32.240 but the the lives of over 40 people all
+00:22:34.480 around the world now um and Counting so
+00:22:37.840 thank you uh I wish you all the best for
+00:22:39.880 2025 and Beyond this is me signing out
+00:22:44.000 here beautiful walk in New Zealand and I
+00:22:46.679 hope you guys in the northern hemisphere
+00:22:47.880 are enjoying your winter
+00:22:50.400 um I will be in touch next year but
+00:22:53.039 thank you again for all your support and
+00:22:54.799 I'll sign out now
