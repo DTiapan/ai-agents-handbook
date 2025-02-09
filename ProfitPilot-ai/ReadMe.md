@@ -1,4 +1,4 @@
-# ProfitPilot AI - Financial Analysis AI Agent
+# ProfitPilot - AI Stock Analyst Agent
 
 ## Overview
 **ProfitPilot AI** is an AI-powered financial analysis tool that provides real-time insights into **short-term market trends** and **long-term investment strategies**. This project leverages **CrewAI**, **Streamlit**, and **Yahoo Finance Library** to create a powerful and interactive AI agent designed for anyone interested in making data-driven financial decisions.
