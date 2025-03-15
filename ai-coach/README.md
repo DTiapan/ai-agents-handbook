@@ -32,4 +32,10 @@
     
     ```
 
+## Execute the script
+
+```
+python3 agentic_rag.py
+```
+
 
