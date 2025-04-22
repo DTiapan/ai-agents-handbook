@@ -1,6 +1,6 @@
 # CrewAI Content Repurposing Platform
 
-Welcome to **CrewAI**, the ultimate solution for repurposing your content efficiently and effectively. With our cutting-edge tech stack, you can transform long-form content into engaging formats across multiple platforms with ease.
+The ultimate solution for repurposing your content efficiently and effectively. With our cutting-edge tech stack, you can transform long-form content into engaging formats across multiple platforms with ease.
 
 ---
 
